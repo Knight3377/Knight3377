@@ -1,4 +1,4 @@
-### Hi everyone, Success is in your hand 👋
+### No Pain, No Gain! 👋
 
 <!-- <p align="center">
 <img src="https://github.com/SuperStar518/SuperStar518/blob/main/avatar.png">
@@ -6,7 +6,7 @@
 
 <h2 align="center">Who is me🥇?</h2>
 <p>
-Passionated and capable developer, focusing on TypeScript/NodeJS, Golang and Rust technologies. I am trying to be more excellent developer.</P>
+Passionated and capable Web developer, focusing on WordPress, Shopify, TypeScript/NodeJS, Golang and Rust technologies. I am trying to be more excellent developer.</P>
 
 
 <h3>🏆 Github Profile Trophy</h3>
@@ -68,17 +68,17 @@ Passionated and capable developer, focusing on TypeScript/NodeJS, Golang and Rus
 
 <h1 align="center">🤲</h1>
 <p align="center">
-<a href="mailto:businessxfree2000@gmail.com">Email to</a>
+<a href="mailto:alfmorales370@gmail.com">Email to</a>
 </p>
 <p align="center">
 <a href="https://join.skype.com/invite/live:.cid.f213e346b7495664">Skype to</a>
-<!-- live:.cid.f213e346b7495664 -->
+<!-- live:.cid.f0854fb47af1737a -->
 </p>
 <!-- <p align="center">
-Discord : scarlett1130#2694
+Discord : Jason3377#0955
 </p>
 <p align="center">
-Telegrame : @scarlett1130
+Telegram : https://t.me/cryptowisdon
 </p> -->
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
